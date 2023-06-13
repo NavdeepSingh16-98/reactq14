@@ -27,6 +27,7 @@ this.setState({reset:val})
 
   }
   setWinner=(val)=>{
+    debugger;
     this.setState({winner:val})
   }
 
